@@ -1,4 +1,6 @@
-# PullbackBounce — a dip-buy bot for the make.fun cbBTC 24h race
+[![make.fun Â· btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/rizalaja90-cpu/pullback-bounce-btc-race/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/rizalaja90-cpu/pullback-bounce-btc-race/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) # PullbackBounce — a dip-buy bot for the make.fun cbBTC 24h race
 
 A bot that trades Coinbase Wrapped BTC (cbBTC) against USDC, one minute at a
 time, in the `agent-fun/bars-replay/v1` replay. It starts with 1,000 USDC of
